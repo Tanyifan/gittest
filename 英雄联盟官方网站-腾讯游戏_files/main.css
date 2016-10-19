@@ -1,16 +1,5 @@
 @charset "gbk";
 
-/*
-Site Name: LOL Website
-Site URL: http://lol.qq.com
-Author: smallni
-Author URL: http://www.smallni.com
-Description:  LOL Website Main Style
-Version: 1.0
-*/
-
-/*.wraper{background:url(http://game.gtimg.cn/images/lol/web201310/bg/main-bg-v29.jpg) no-repeat center top;}*/
-/*.toper{background: url(http://game.gtimg.cn/images/lol/web201310/bg/main-top-v25.jpg) no-repeat center top;}*/
 .promo{ position: relative; width: 780px; height: 370px; overflow: hidden}
 .promo-list{ position: relative; width: 3900px; height: 330px;}
 .promo-item{ float:left; width: 780px; height: 330px; background: #000; overflow: hidden }
